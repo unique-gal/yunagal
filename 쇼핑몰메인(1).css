@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+* {
+  font-family: 'Jua', sans-serif;
+}
+.wrap {
+  width: 700px;
+  margin: 20px auto;
+}
+/* 상단 이미지 */
+.img1 {
+  width: 100%;
+  height: 600px;
+  margin-bottom: 30px;
+}
+
+/* 아이템 */
+.item1 {
+  display: flex;
+}
+.item-price {
+  font-size: 20px;  
+  padding: 20px 0 0 20px;
+}
+.item-desc {
+  font-size: 20px;
+}
+
+/* 주문 */
+.order {
+  width: 700px;
+  margin: 30px auto;
+}
+.order-tit {
+  margin-bottom: 20px;
+}
+.btn {
+  width: 100%;
+  margin: auto;
+}
+.btn-primary {
+  width: 100px;
+}
